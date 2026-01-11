@@ -492,6 +492,143 @@ realname: Hanna
 age: 14
 username: hanna.m290212
 '
+realname: Meltem
+age: 15
+username: meltem_krnfl
+'
+realname: Melek
+age: 16
+username: melek_284
+'
+realname: Omar
+age: 14
+username: omar_cv
+'
+realname: Mareen
+age: 15
+username: mareen58
+'
+realname: Mila
+age: 14
+realname: mila.st4
+'
+realname: Fynn
+age: 15
+username: fynn20258795
+'
+realname: Roudi
+age: 15
+username: roudik21
+'
+realname: Luis
+age: 15
+username: luiswissing
+'
+realname: Hamza
+age: 16
+username: parwanip25
+'
+realname: Philip
+age: 15
+username: der_sigma123
+'
+realname: Henri
+age: 15 
+username: hxnr5127
+'
+realname: Hasan Fidan
+age: 16
+username: hasan472010
+'
+realname: Dilara
+age: 14
+username: dilara236462
+'
+realname: loreta
+age: 16
+username: loreta.pz
+'
+realname: Leni
+age: 15
+username: lenii.475
+'
+realname: Pia
+age: 17
+username: xp_ia14
+'
+realname: Leon
+age: 15
+username: leon_1k
+'
+realname: jessica
+age: 16
+username: jessic.xxq
+'
+realname: Maja
+age: 14
+username: helene.maja.privat
+'
+realname: Helene
+age: 14
+username: helene.maja.privat
+'
+realname: Yusuf 
+age: 15
+username: yusuf_fi_211
+'
+realname: Liana
+age: 16
+username: lianacjsle9
+'
+realname: Lilian
+age: 15
+username: lilian87875
+'
+realname: Leonie
+age: 16
+username: leonizyhnir
+'
+realname: Nova
+age: 17
+username: nova_haschemii
+'
+realname: henri
+age: 14
+username: henri_diekmp
+'
+realname: emma
+age: 15
+username: emma.23130
+'
+realname: Diana
+age: 16
+username: dianakatarina2
+'
+realname: Annika
+age: 15
+username: a.nnika7
+'
+realname: Djordje
+age: 17
+username: ryze__08
+snap: asianjeff-fn
+'
+realname: Lara
+age: 16
+username: lara.sicuro
+'
+realname: paulina
+age: 14
+username: paulina_jrw2111
+'
+realname: Laura
+age: 16
+username: laura.alb07
+'
+realname: Summer
+age: 17
+username: summer.10333
+'
 
 
    _____ _                              _            _             
@@ -509,7 +646,7 @@ username: hanna.m290212
 ⠀⠀⠀⠀⡐⠁⠀⢀⣾⡿⢶⣻⡾⣭⣟⡼⣮⠟⢹⣷⢫⡿⣽⢎⡿⣞⡾⢹⣟⢶⡹⣏⣟⢮⡳⣝⠾⣿⡜⣧⢻⢮⢷⣻⢷⣸⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣾⣿⢻⡽⣯⢿⡵⣻⢞⡵⢀⣾⢞⡯⣽⡞⣭⢿⣽⠇⢹⣯⢻⡷⣭⣟⡮⢷⣭⢻⣽⣿⢾⡽⣾⢷⣻⢿⣏⠀⠀⠀
 ⠀⠀⠀⠀⠀⡜⣼⡿⣭⢿⣹⢯⣷⡿⠕⠉⠀⠀⣿⢞⡽⢧⠿⣜⣯⡿⠃⢫⣯⢷⡟⣞⣿⢼⡳⣎⠷⣾⣏⢾⡹⣞⣳⢯⣿⣿⠀⠀⠀       Note:
-⠀⠀⠀⠀⣰⣿⡿⣽⣏⢾⣽⣿⢿⣿⣿⣶⣄⠀⠘⣯⡻⣭⣛⢷⠟⠀⠀⠀⢻⡾⣝⣾⣻⢮⢷⣭⢻⡼⣛⣮⣷⢿⣟⢿⣳⡿⢤⡀⠀           i always have a weakness i love too much
+⠀⠀⠀⠀⣰⣿⡿⣽⣏⢾⣽⣿⢿⣿⣿⣶⣄⠀⠘⣯⡻⣭⣛⢷⠟⠀⠀⠀⢻⡾⣝⣾⣻⢮⢷⣭⢻⡼⣛⣮⣷⢿⣟⢿⣳⡿⢤⡀⠀           i always have a weakness that i love too much
 ⠀⠀⢀⠜⢹⣿⣽⣳⢯⣿⡿⠉⣲⣿⣿⡟⣿⡆⠀⠙⣿⣶⣭⢿⠀⢀⡤⠀⠀⣿⣣⣿⡽⣏⡾⣎⢷⣹⢯⡷⣏⡿⣞⢯⡷⡇⠘⣟⣧          Feel too much and get called a psychopath all the time
 ⠀⢠⠎⠀⣼⣟⡾⣽⣿⣿⡇⠀⣿⡿⣟⣿⡿⠀⠀⠀⠈⠉⠙⠛⠂⣾⣿⣿⣿⣾⣿⢧⡿⣽⢺⡽⣧⢻⣯⢷⡿⣹⣞⣻⡼⡇⠀⠘⣾           
 ⢠⠃⠀⣰⣟⣾⣽⣳⣟⡏⠻⠀⠙⠿⠿⠄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣏⣿⢻⣿⣻⣽⣳⢏⣷⣻⣞⣯⣽⣳⣭⢷⣻⡇⠀⠀⠱            
