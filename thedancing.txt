@@ -412,6 +412,43 @@ realname: Emma
 age: 15
 username: emma_lief12
 '
+realname: Abdula
+age: 17
+username: Abdurrahmman366
+'
+realname: Laila
+age: 15
+username:laila.366
+'
+realname: Yasmen
+age: 15
+username:yassmen_366
+'
+realname: Nour
+age: 14
+username: nourr.366
+'
+realname: Tanja
+age: 16
+username: xy.tanjaa
+'
+realname: Mina
+age: 15
+username: mina_22.05
+'
+realname: diartbanullaa7
+age: 18
+username: diartbanullaa7
+'
+realname: Rawan
+age: 16
+username: rawan.5599
+'
+realname: Isra
+age: 15
+username: isra.366
+'
+
 
 
    _____ _                       _      __          __   _       _     _             
@@ -429,13 +466,13 @@ username: emma_lief12
 ⠀⠀⠀⠀⡐⠁⠀⢀⣾⡿⢶⣻⡾⣭⣟⡼⣮⠟⢹⣷⢫⡿⣽⢎⡿⣞⡾⢹⣟⢶⡹⣏⣟⢮⡳⣝⠾⣿⡜⣧⢻⢮⢷⣻⢷⣸⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣾⣿⢻⡽⣯⢿⡵⣻⢞⡵⢀⣾⢞⡯⣽⡞⣭⢿⣽⠇⢹⣯⢻⡷⣭⣟⡮⢷⣭⢻⣽⣿⢾⡽⣾⢷⣻⢿⣏⠀⠀⠀
 ⠀⠀⠀⠀⠀⡜⣼⡿⣭⢿⣹⢯⣷⡿⠕⠉⠀⠀⣿⢞⡽⢧⠿⣜⣯⡿⠃⢫⣯⢷⡟⣞⣿⢼⡳⣎⠷⣾⣏⢾⡹⣞⣳⢯⣿⣿⠀⠀⠀       Note:
-⠀⠀⠀⠀⣰⣿⡿⣽⣏⢾⣽⣿⢿⣿⣿⣶⣄⠀⠘⣯⡻⣭⣛⢷⠟⠀⠀⠀⢻⡾⣝⣾⣻⢮⢷⣭⢻⡼⣛⣮⣷⢿⣟⢿⣳⡿⢤⡀⠀            You'll Always Feel Pain in Life but..
-⠀⠀⢀⠜⢹⣿⣽⣳⢯⣿⡿⠉⣲⣿⣿⡟⣿⡆⠀⠙⣿⣶⣭⢿⠀⢀⡤⠀⠀⣿⣣⣿⡽⣏⡾⣎⢷⣹⢯⡷⣏⡿⣞⢯⡷⡇⠘⣟⣧           You'll never Feel The Pain of Being "Alone"
-⠀⢠⠎⠀⣼⣟⡾⣽⣿⣿⡇⠀⣿⡿⣟⣿⡿⠀⠀⠀⠈⠉⠙⠛⠂⣾⣿⣿⣿⣾⣿⢧⡿⣽⢺⡽⣧⢻⣯⢷⡿⣹⣞⣻⡼⡇⠀⠘⣾           Being The One Who always Stays Quiet.
-⢠⠃⠀⣰⣟⣾⣽⣳⣟⡏⠻⠀⠙⠿⠿⠄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣏⣿⢻⣿⣻⣽⣳⢏⣷⣻⣞⣯⣽⣳⣭⢷⣻⡇⠀⠀⠱            But Deep in Heart Loves every Person it Sees
-⡎⠀⢰⣿⣹⡞⣷⢯⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡹⣻⣿⣿⠀⣿⣿⣾⡽⣟⡾⣵⣻⡼⡶⣏⡾⢧⣳⢿⠀⠀⠀             Just because He Doesn't Want others to Feel His Pain
-⣇⢠⣿⡷⠉⠟⠛⠻⢾⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⠯⣘⠋⠀⠛⠋⠀⠐⠾⣿⣳⢯⡷⣿⡽⣹⣏⢷⣻⠇⡀⠀             Pain of never Feeling being enough Trying hard but it's Never going to be enough
-⠻⣿⡟⠀⠀⡔⠛⠒⠒⠺⠷⣤⠀⠀⠀⠐⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡤⠈⠈⣻⡟⠉⣿⣳⣟⣳⡞⣿⡄⠙⠓⠄             A Villian is was always a good person once
+⠀⠀⠀⠀⣰⣿⡿⣽⣏⢾⣽⣿⢿⣿⣿⣶⣄⠀⠘⣯⡻⣭⣛⢷⠟⠀⠀⠀⢻⡾⣝⣾⣻⢮⢷⣭⢻⡼⣛⣮⣷⢿⣟⢿⣳⡿⢤⡀⠀          Don't you Dare Call me a Psychopath
+⠀⠀⢀⠜⢹⣿⣽⣳⢯⣿⡿⠉⣲⣿⣿⡟⣿⡆⠀⠙⣿⣶⣭⢿⠀⢀⡤⠀⠀⣿⣣⣿⡽⣏⡾⣎⢷⣹⢯⡷⣏⡿⣞⢯⡷⡇⠘⣟⣧           
+⠀⢠⠎⠀⣼⣟⡾⣽⣿⣿⡇⠀⣿⡿⣟⣿⡿⠀⠀⠀⠈⠉⠙⠛⠂⣾⣿⣿⣿⣾⣿⢧⡿⣽⢺⡽⣧⢻⣯⢷⡿⣹⣞⣻⡼⡇⠀⠘⣾           
+⢠⠃⠀⣰⣟⣾⣽⣳⣟⡏⠻⠀⠙⠿⠿⠄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣏⣿⢻⣿⣻⣽⣳⢏⣷⣻⣞⣯⣽⣳⣭⢷⣻⡇⠀⠀⠱            
+⡎⠀⢰⣿⣹⡞⣷⢯⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡹⣻⣿⣿⠀⣿⣿⣾⡽⣟⡾⣵⣻⡼⡶⣏⡾⢧⣳⢿⠀⠀⠀             
+⣇⢠⣿⡷⠉⠟⠛⠻⢾⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⠯⣘⠋⠀⠛⠋⠀⠐⠾⣿⣳⢯⡷⣿⡽⣹⣏⢷⣻⠇⡀⠀             
+⠻⣿⡟⠀⠀⡔⠛⠒⠒⠺⠷⣤⠀⠀⠀⠐⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡤⠈⠈⣻⡟⠉⣿⣳⣟⣳⡞⣿⡄⠙⠓⠄             
 ⠀⠈⠳⣀⡜⠀⠀⣠⣤⣤⡴⢺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⢀⣀⠀⠀⢀⡀⠀⠀⠚⠿⠒⣺⡏⠀⣼⢿⡽⣯⡷⣽⢯⡇⠀⠀⠀
 ⠀⠀⠀⠈⢆⠀⣰⣿⢿⡽⡇⠀⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠻⠄⢄⣠⡈⠉⢹⣦⣤⣴⣾⠏⠀⡔⠁⣼⡿⣹⣿⡞⣿⡇⠀⠀⠀
 ⠀⠀⠀⠀⢸⠀⠹⣌⠛⣿⠷⠀⣿⠟⡷⢄⣀⠀⢀⢀⣀⣠⡜⠀⣰⣾⣟⣿⣻⠀⠐⣿⡽⠛⠁⢀⠞⠀⣸⣟⡷⣏⣷⣻⢷⣻⠀⠀⠀
