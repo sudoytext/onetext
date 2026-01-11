@@ -337,7 +337,7 @@ realname: iliana
 age: Set To Hiddin by Clownflare
 username: Set to Hiddin by Clownflare
 TikTok: Set to Hiddin by Clownflare
-Tiktok2: Seto to Hiddin by Clownflare
+Tiktok2: Set to Hiddin by Clownflare
 '
 realname: georgios
 age: 16
